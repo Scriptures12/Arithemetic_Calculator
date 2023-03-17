@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1678876139 source:c:\users\kingsley\onedrive\desktop\tutorials\calculator program\newcalculator.cpp
+	"newcalculator.h"
+	<iostream>
+
+1678876139 c:\users\kingsley\onedrive\desktop\tutorials\calculator program\newcalculator.h
+	"calculator.h"
+
+1678876139 c:\users\kingsley\onedrive\desktop\tutorials\calculator program\calculator.h
+
+1678876409 source:c:\users\kingsley\onedrive\desktop\tutorials\calculator program\calculator.cpp
+	"calculator.h"
+	<iostream>
+
